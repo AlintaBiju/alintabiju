@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 🙋‍♀️
 I’m Alinta Biju, an Electronics and Communication Engineering graduate with hands-on experience in data analysis, automation, and user sentiment analysis. Skilled in Python, SQL, Excel, and Power BI, I enjoy transforming data into meaningful insights and building solutions that improve decision-making and user experience. I’m passionate about learning new technologies and solving real-world problems using data-driven approaches.
 <!--
 **AlintaBiju/alintabiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
