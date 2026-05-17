@@ -1,5 +1,5 @@
 ## Hi there! 👋
-Hi, I’m Alinta Biju, an Electronics and Communication Engineering graduate from LBS College of Engineering, Kasaragod. I have hands-on experience in data analysis, automation, and user sentiment analysis through my projects and internship experience.
+I’m Alinta Biju, an Electronics and Communication Engineering graduate👨‍🚒 from LBS College of Engineering, Kasaragod. I have hands-on experience in data analysis, automation, and user sentiment analysis through my projects and internship experience.
 
 I’ve worked extensively with tools like Python, SQL, Excel, and Power BI to analyze datasets and generate meaningful insights. During my experience at Ecaret Solutions, I worked on automating manual workflows using REST APIs and improving reporting efficiency with advanced Excel functions and AI-powered tools.
 
