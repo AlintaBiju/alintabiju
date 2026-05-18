@@ -2,18 +2,10 @@
 
 
 
-<td width="60%">
 
 ## Hi there! 🙋‍♀️
 I’m Alinta Biju, an Electronics and Communication Engineering graduate with hands-on experience in data analysis, automation, and user sentiment analysis. Skilled in Python, SQL, Excel, and Power BI, I enjoy transforming data into meaningful insights and building solutions that improve decision-making and user experience. I’m passionate about learning new technologies and solving real-world problems using data-driven approaches.
-</td>
-<td width="40%">
-
-<img src="https://github.com/user-attachments/assets/de93c726-74a8-4366-9981-88b423c799a9" width="300"/>
-
-</td>
-
-
+<img align="right" width="300" src="https://github.com/user-attachments/assets/de93c726-74a8-4366-9981-88b423c799a9"/>
 
 ## Skills📊
 - **Programming Languages :** Python, SQL 
