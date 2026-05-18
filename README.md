@@ -1,5 +1,5 @@
 <table>
-<tr>
+
 <td width="60%">
 
 ## Hi there! 🙋‍♀️
@@ -10,7 +10,7 @@ I’m Alinta Biju, an Electronics and Communication Engineering graduate with ha
 <img src="YOUR_IMAGE_URL_HERE" width="300"/>
 
 </td>
-</tr>
+
 </table>
 
 ## Skills📊
