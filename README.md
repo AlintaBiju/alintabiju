@@ -1,5 +1,17 @@
+<table>
+<tr>
+<td width="60%">
+
 ## Hi there! 🙋‍♀️
 I’m Alinta Biju, an Electronics and Communication Engineering graduate with hands-on experience in data analysis, automation, and user sentiment analysis. Skilled in Python, SQL, Excel, and Power BI, I enjoy transforming data into meaningful insights and building solutions that improve decision-making and user experience. I’m passionate about learning new technologies and solving real-world problems using data-driven approaches.
+</td>
+<td width="40%">
+
+<img src="YOUR_IMAGE_URL_HERE" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ## Skills📊
 - **Programming Languages :** Python, SQL 
@@ -7,6 +19,8 @@ I’m Alinta Biju, an Electronics and Communication Engineering graduate with ha
 - **Data Analysis :** Pandas, NumPy, MS Excel
 - **Develeper Tools :** Jupyter Notebook, Google Colab, VS Code
 - **QA & Testing Tools :** Postman, REST API Testing, Manual Testing
+
+
 <!--
 **AlintaBiju/alintabiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
