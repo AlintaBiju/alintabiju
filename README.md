@@ -20,7 +20,9 @@ I’m Alinta Biju, an Electronics and Communication Engineering graduate with ha
 - **Develeper Tools :** Jupyter Notebook, Google Colab, VS Code
 - **QA & Testing Tools :** Postman, REST API Testing, Manual Testing
 
-
+</td>
+</tr>
+</table>
 <!--
 **AlintaBiju/alintabiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
