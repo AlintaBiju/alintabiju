@@ -1,6 +1,6 @@
 <!-- <img width="1195" height="896" alt="Gif" src="https://github.com/user-attachments/assets/de93c726-74a8-4366-9981-88b423c799a9" /> -->
 
-<table>
+
 
 <td width="60%">
 
@@ -13,7 +13,7 @@ I’m Alinta Biju, an Electronics and Communication Engineering graduate with ha
 
 </td>
 
-</table>
+
 
 ## Skills📊
 - **Programming Languages :** Python, SQL 
