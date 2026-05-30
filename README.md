@@ -19,7 +19,7 @@ I’m Alinta Biju, an Electronics and Communication Engineering graduate with ha
 - **Develeper Tools :** Jupyter Notebook, Google Colab, VS Code
 - **QA & Testing Tools :** Postman, REST API Testing, Manual Testing
 
-
+![Alinta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alintabiju&show_icons=true&theme=tokyonight&hide_border=true)
 <!--
 **AlintaBiju/alintabiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
