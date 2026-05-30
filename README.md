@@ -12,7 +12,7 @@
 <!-- <img align="right" width="350" src="https://github.com/user-attachments/assets/33ee03bb-c194-4557-bc72-4281b3a8a977"/> -->
 
 I’m Alinta Biju, a Btech graduate with hands-on experience in data analysis, automation, and user sentiment analysis. Skilled in Python, SQL, Excel, and Power BI, I enjoy transforming data into meaningful insights and building solutions that improve decision-making and user experience. I’m passionate about learning new technologies and solving real-world problems using data-driven approaches.
-<img width="480" height="480" alt="Going Up Sticker by Qunomedical" src="https://github.com/user-attachments/assets/81f8b7a2-9fd0-4b66-9b11-e48b3c6a8257" />
+<img width="100" height="100" alt="Going Up Sticker by Qunomedical" src="https://github.com/user-attachments/assets/81f8b7a2-9fd0-4b66-9b11-e48b3c6a8257" />
 <!-- <br clear="right"/> -->
 ## Skills📊
 - **Programming Languages :** Python, SQL 
