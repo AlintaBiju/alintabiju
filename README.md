@@ -6,7 +6,7 @@
 
 <!-- <img align="right" width="280" src="https://github.com/user-attachments/assets/33ee03bb-c194-4557-bc72-4281b3a8a977"/> -->
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&width=435&lines=Hi+there!+I'm+Alinta+Biju;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel)](https://git.io/typing-svg)
 ## Hi there! 🙋‍♀️
 <!-- <img align="right" width="350" src="https://github.com/user-attachments/assets/33ee03bb-c194-4557-bc72-4281b3a8a977"/> -->
 
