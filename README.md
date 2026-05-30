@@ -7,7 +7,7 @@
 <!-- <img align="right" width="280" src="https://github.com/user-attachments/assets/33ee03bb-c194-4557-bc72-4281b3a8a977"/> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&width=435&lines=Hi+there!+I'm+Alinta+Biju;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel)](https://git.io/typing-svg)
-## Hi there! 🙋‍♀️
+
 <!-- <img align="right" width="350" src="https://github.com/user-attachments/assets/33ee03bb-c194-4557-bc72-4281b3a8a977"/> -->
 
 I’m Alinta Biju, an Electronics and Communication Engineering graduate with hands-on experience in data analysis, automation, and user sentiment analysis. Skilled in Python, SQL, Excel, and Power BI, I enjoy transforming data into meaningful insights and building solutions that improve decision-making and user experience. I’m passionate about learning new technologies and solving real-world problems using data-driven approaches.
