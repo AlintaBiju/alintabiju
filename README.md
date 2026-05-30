@@ -21,7 +21,7 @@ I’m Alinta Biju, a Btech graduate with hands-on experience in data analysis, a
 - **Develeper Tools :** Jupyter Notebook, Google Colab, VS Code
 - **QA & Testing Tools :** Postman, REST API Testing, Manual Testing
 
-![Snake](https://raw.githubusercontent.com/alintabiju/alintabiju/output/github-contribution-grid-snake.svg)
+
 <!--
 **AlintaBiju/alintabiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
