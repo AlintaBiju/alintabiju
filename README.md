@@ -11,7 +11,8 @@
 
 <!-- <img align="right" width="350" src="https://github.com/user-attachments/assets/33ee03bb-c194-4557-bc72-4281b3a8a977"/> -->
 
-I’m Alinta Biju, a Btech graduate with hands-on experience in data analysis, automation, and user sentiment analysis. Skilled in Python, SQL, Excel, and Power BI, I enjoy transforming data into meaningful insights and building solutions that improve decision-making and user experience. I’m passionate about learning new technologies and solving real-world problems using data-driven approaches.
+Data enthusiast with experience in data analysis, automation, and sentiment analysis. Proficient in Python, SQL, Excel, and Power BI, with a passion for uncovering insights, optimizing processes, and supporting data-driven decision-making. Always eager to learn, adapt, and take on new analytical challenges.
+
 
 <!-- <br clear="right"/> -->
 ## Skills📊
