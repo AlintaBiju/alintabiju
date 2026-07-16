@@ -11,7 +11,7 @@
 
 <!-- <img align="right" width="350" src="https://github.com/user-attachments/assets/33ee03bb-c194-4557-bc72-4281b3a8a977"/> -->
 
-Data enthusiast with experience in data analysis, automation, and sentiment analysis. Proficient in Python, SQL, Excel, and Power BI, with a passion for uncovering insights, optimizing processes, and supporting data-driven decision-making. Always eager to learn, adapt, and take on new analytical challenges.
+Data enthusiast with experience in data analysis, machine learning and automation . Proficient in Python, SQL, Excel,ML and Power BI, with a passion for uncovering insights, optimizing processes, and supporting data-driven decision-making. Always eager to learn, adapt, and take on new analytical challenges.
 
 
 <!-- <br clear="right"/> -->
