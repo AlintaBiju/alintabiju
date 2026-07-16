@@ -7,7 +7,7 @@
 
 <!-- <img align="right" width="280" src="https://github.com/user-attachments/assets/33ee03bb-c194-4557-bc72-4281b3a8a977"/> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&pause=1000&color=FFFFFF&width=435&lines=Hi+there!+I'm+Alinta+Biju+🙋‍♀️;Skilled+in+Python+%2C+MS+Excel+%2C+SQL+%2C+Power+BI+%2C+ML;Building+dashboards+%26+data+insights+📊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&pause=1000&color=FFFFFF&width=600&lines=Hi+there!+I'm+Alinta+Biju+🙋‍♀️;Skilled+in+Python+%2C+MS+Excel+%2C+SQL+%2C+Power+BI+%2C+ML;Building+dashboards+%26+data+insights+📊)](https://git.io/typing-svg)
 
 <!-- <img align="right" width="350" src="https://github.com/user-attachments/assets/33ee03bb-c194-4557-bc72-4281b3a8a977"/> -->
 
